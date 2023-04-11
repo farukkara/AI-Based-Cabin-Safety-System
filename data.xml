@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kabin_guvenligi>
+   <yolcu>
+      <ad>John</ad>
+      <soyad>Doe</soyad>
+      <yas>35</yas>
+      <cinsiyet>Erkek</cinsiyet>
+      <koltuk_numarasi>12A</koltuk_numarasi>
+      <seyahat_tarihi>2022-05-20</seyahat_tarihi>
+   </yolcu>
+   <yolcu>
+      <ad>Jane</ad>
+      <soyad>Doe</soyad>
+      <yas>28</yas>
+      <cinsiyet>Kadın</cinsiyet>
+      <koltuk_numarasi>13B</koltuk_numarasi>
+      <seyahat_tarihi>2022-05-20</seyahat_tarihi>
+   </yolcu>
+   <yolcu>
+      <ad>Bob</ad>
+      <soyad>Smith</soyad>
+      <yas>42</yas>
+      <cinsiyet>Erkek</cinsiyet>
+      <koltuk_numarasi>14C</koltuk_numarasi>
+      <seyahat_tarihi>2022-05-21</seyahat_tarihi>
+   </yolcu>
+</kabin_guvenligi>
