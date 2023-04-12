@@ -9,7 +9,7 @@ Installation
 
 bash
 
-git clone https://github.com/username/AI-Based-Cabin-Safety-System.git
+git clone https://github.com/farukkara/AI-Based-Cabin-Safety-System.git
 
     Install the required packages
 
