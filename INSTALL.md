@@ -4,7 +4,7 @@ Kurulum
 
     bash
 
-git clone https://github.com/kabin-guvenligi-sistemi.git
+git clone https://github.com/AI-Based-Cabin-Safety-System.git
 
 Anaconda veya benzeri bir sanal ortamda bir ortam oluşturun ve aktif hale getirin.
 
